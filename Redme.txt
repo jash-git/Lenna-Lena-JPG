@@ -1,0 +1,15 @@
+圖像處理的回眸女郎是何方神聖？(Lenna/Lena JPG)
+
+資料來源: 
+https://zh.wikipedia.org/wiki/%E8%90%8A%E5%A8%9C%E5%9C%96
+http://www.ee.cityu.edu.hk/~lmpo/lenna/Lenna97.html
+https://mp.weixin.qq.com/s?__biz=MzA4MDExMDEyMw==&mid=2247489016&idx=2&sn=fbeb5105522a8024c9767c82d0305a2f&chksm=9fa862bca8dfebaa862bd02c142a35556190924ba3d50912198f6cf37a71e80ed31e98a65398&scene=126&sessionid=1594600867&key=fa39e04f3e1bcf440607be4597ee6c9f43bb490340b61436d2ae37d7595fa78185508afb95bd8c895e6aefd1cb0e86cc4b318fcbf7f30d9ddfa26f2da71b8e2ad11e1badd019829711894fccf4c75b6a&ascene=1&uin=MjIwODk2NDgxNw%3D%3D&devicetype=Windows+10+x64&version=62090529&lang=zh_TW&exportkey=AtkWihE17DXWRD0CRN%2Fw4ZA%3D&pass_ticket=jFD6a0aHreR%2FAGPd7WqfXcMGoFXajoezSlzY%2FJAIKT9vQ8rMESYJ1%2B%2BxWExqbc8C
+
+
+萊娜圖（Lenna）是指刊於1972年11月號《花花公子》（Playboy）雜誌上的一張裸體插圖相片的一部分，是一張大小為512x512像素的標準測試圖像。該圖在數位影像處理學習與研究中頗為知名，常被用作數位影像處理各種實驗（例如資料壓縮和降噪）及科學出版物的例圖。
+
+圖中人為瑞典模特兒萊娜·瑟德貝里（Lena Söderberg），1997年獲邀出席圖像科學學會的週年大會。該圖由《花花公子》雜誌攝影師Dwight Hooker拍攝。
+
+現在被廣泛使用的英文化名字"Lenna"最初是由《花花公子》雜誌發表此相片時命名的，以方便英語讀者近似正確地讀出瑞典語中"Lena"的發音。
+
+萊娜圖在圖像壓縮演算法是最廣泛應用的標準測試圖—她的臉部與裸露的肩部已經變成了事實上的工業標準。然而，這張圖像的使用也引起了一些爭議。一些人擔心它的色情內容；《花花公子》雜誌曾經威脅要起訴對萊娜圖未經授權的使用。不過這家雜誌已經放棄了這種威脅，取而代之的是鼓勵因為公眾利益使用萊娜圖。
